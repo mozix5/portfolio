@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbba91f5.css",
+    "main.js": "/static/js/main.a56373c4.js",
+    "static/media/keeper.png": "/static/media/keeper.6f3b1f41613dea2ef4ab.png",
+    "static/media/dashboard.png": "/static/media/dashboard.24fce0bdef6d887f1cd1.png",
+    "static/media/mosininterviewcv.pdf": "/static/media/mosininterviewcv.8b4dccfebd3c945ae02d.pdf",
+    "static/media/todo.png": "/static/media/todo.25acec8ac7f60b523d6a.png",
+    "static/media/me.png": "/static/media/me.7b2f85a5627d8971176b.png",
+    "static/media/mixiwa-mixiwa-400.woff": "/static/media/mixiwa-mixiwa-400.1f31caddb538d88f522a.woff",
+    "index.html": "/index.html",
+    "main.cbba91f5.css.map": "/static/css/main.cbba91f5.css.map",
+    "main.a56373c4.js.map": "/static/js/main.a56373c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbba91f5.css",
+    "static/js/main.a56373c4.js"
+  ]
+}
